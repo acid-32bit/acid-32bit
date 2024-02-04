@@ -1,8 +1,6 @@
 # Hi there, I go by Rogue 🔻
 #### just a computer science student(currently on midway of finishing this thing). I also like to learn some other stuff on the side.
 
-<hr>
-
 ### what I know 
 <img alt="js"       width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
 <img alt="sass"     width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" >
@@ -24,3 +22,7 @@
 <img alt="fedora" width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/e6b1e7f0fb8d0bf920bd719c7289243138bdc1b4/topics/fedora/fedora.png" >
 <img alt="nvim"   width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" >
 <img alt="kitty"  width="32px" align="left" src="https://github.com/kovidgoyal/kitty/blob/master/logo/kitty-128.png" >
+
+<br/><br/>
+
+<hr>
