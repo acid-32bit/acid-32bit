@@ -55,4 +55,7 @@
 
 <br/><br/>
 
+### get in touch
+* Discord: rogue87.dev
+* Matrix : @rogue87:matrix.org
 <hr>
