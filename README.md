@@ -48,12 +48,18 @@
   <img alt="kitty"  width="32px" align="left" src="https://github.com/kovidgoyal/kitty/blob/master/logo/kitty-128.png" >
 <a/>
 
+<br/><br/>
+
 <a href="https://github.com/neovim/neovim" >
   <img alt="nvim"   width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" >
 <a/>
 
 <a href="https://github.com/jesseduffield/lazygit">
   <img alt="lazygit" width="32px" align="left" src="https://user-images.githubusercontent.com/8456633/174470852-339b5011-5800-4bb9-a628-ff230aa8cd4e.png">
+<a/>
+
+<a href="https://github.com/charmbracelet/glow">
+  <img alt="lazygit" width="32px" align="left" src="https://avatars.githubusercontent.com/u/57376114?s=48&v=4">
 <a/>
 
 
