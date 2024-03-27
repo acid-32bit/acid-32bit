@@ -67,5 +67,5 @@
 
 ### get in touch
 * Discord: rogue87.dev
-* Matrix : @rogue87:matrix.org
+* Matrix : @rogue87:matrix.org (not active)
 <hr>
