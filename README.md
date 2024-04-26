@@ -18,22 +18,6 @@
 
 <br/><br/>
 
-### currently learning
-
-<a href="https://github.com/topics/nodejs">
-  <img alt="nodejs" width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" >
-<a/>
-
-<a href="https://github.com/topics/bootstrap">
-  <img alt="bootsrap" width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" >
-<a/>
-
-<a href="https://love2d.org/">
-  <img alt="love2d"   width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/dd79cf5feeeae08b78bbe2ea4d4ce17f71645893/topics/love2d/love2d.png" >
-<a/>
-
-<br/><br/>
-
 ### stuff that I like
 
 <a href="https://github.com/topics/linux" >
