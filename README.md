@@ -32,6 +32,10 @@
   <img alt="kitty"  width="32px" align="left" src="https://github.com/kovidgoyal/kitty/blob/master/logo/kitty-128.png" >
 <a/>
 
+<a href="https://github.com/ohmybash/oh-my-bash">
+  <img alt="oh-my-bash" width="32px" align="left" src="https://avatars.githubusercontent.com/u/26999586?s=48&v=4">
+<a/>
+
 <br/><br/>
 
 <a href="https://github.com/neovim/neovim" >
