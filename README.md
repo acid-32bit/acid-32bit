@@ -2,17 +2,30 @@
 #### just a computer science student(currently on midway of finishing this thing). I also like to learn some other stuff on the side.
 
 ### what I know 
-<img alt="lua"      width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" >
-<img alt="js"       width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
-
-<br/><br/>
-
+<img alt="lua"   width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" >
+<img alt="js"    width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
+<img alt="ts"    width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" >
+  
 <a href="https://sass-lang.com/" >
   <img alt="sass" width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" >
 <a/>
 
-<a href="https://parceljs.org/">
-  <img alt="parceljs" width="32px" align="left" src="https://avatars.githubusercontent.com/u/32607881?s=48&v=4" >
+<br/><br/>
+
+<a href="https://vite.dev/">
+  <img alt="vitejs" width="32px" align="left" src="https://avatars.githubusercontent.com/u/65625612?s=48&v=4" >
+<a/>
+
+<a href="https://astro.build/">
+  <img alt="astrojs" width="32px" align="left" src="https://avatars.githubusercontent.com/u/44914786?s=48&v=4" >
+<a/>
+
+<a href="https://react.dev/">
+  <img alt="ts"    width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" >
+<a/>
+
+<a href="https://nodejs.org/en">
+  <img alt="ts"    width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" >
 <a/>
 
 <br/><br/>
@@ -20,7 +33,7 @@
 ### stuff that I like
 
 <a href="https://github.com/topics/linux" >
-  <img alt="linux"  width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" >
+  <img alt="linux"  width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/eb40fa94e4b686db568094600bb30065acce30c3/topics/linux/linux.png" >
 <a/>
   
 <a href="https://github.com/topics/fedora" >
@@ -29,10 +42,6 @@
 
 <a href="https://github.com/kovidgoyal/kitty" >
   <img alt="kitty"  width="32px" align="left" src="https://github.com/kovidgoyal/kitty/blob/master/logo/kitty-128.png" >
-<a/>
-
-<a href="https://github.com/ohmybash/oh-my-bash">
-  <img alt="oh-my-bash" width="32px" align="left" src="https://avatars.githubusercontent.com/u/26999586?s=48&v=4">
 <a/>
 
 <br/><br/>
@@ -45,14 +54,10 @@
   <img alt="lazygit" width="32px" align="left" src="https://user-images.githubusercontent.com/8456633/174470852-339b5011-5800-4bb9-a628-ff230aa8cd4e.png">
 <a/>
 
-<a href="https://github.com/charmbracelet/glow">
-  <img alt="lazygit" width="32px" align="left" src="https://avatars.githubusercontent.com/u/57376114?s=48&v=4">
-<a/>
-
 
 <br/><br/>
 
 ### get in touch
-* Discord: rogue.sly
-* Matrix : @rogue87:matrix.org (not active)
+* Discord: @rogue.sly
+* [Matrix](https://matrix.to/#/@rogue87:matrix.org)
 <hr>
