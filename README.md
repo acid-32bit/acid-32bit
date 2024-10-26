@@ -57,8 +57,9 @@
 <a/>
   
 <br/><br/>
+<hr/>
 
-<div style="display: flex;">
+<div>
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/tall/662dc44733b0bd83e722eb0f?variant=dark" alt="roadmap.sh"/>
   </a>
