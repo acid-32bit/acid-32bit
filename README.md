@@ -48,8 +48,6 @@
   <img alt="kitty"  width="32px" align="left" src="https://github.com/kovidgoyal/kitty/blob/master/logo/kitty-128.png" >
 <a/>
 
-<br/><br/>
-
 <a href="https://github.com/neovim/neovim" >
   <img alt="nvim"   width="32px" align="left" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" >
 <a/>
@@ -57,11 +55,18 @@
 <a href="https://github.com/jesseduffield/lazygit">
   <img alt="lazygit" width="32px" align="left" src="https://user-images.githubusercontent.com/8456633/174470852-339b5011-5800-4bb9-a628-ff230aa8cd4e.png">
 <a/>
-
-
+  
 <br/><br/>
 
-### get in touch
-* Discord: @rogue.sly
-* [Matrix](https://matrix.to/#/@rogue87:matrix.org)
-<hr>
+<div style="display: flex;">
+  <a href="https://roadmap.sh">
+    <img src="https://roadmap.sh/card/tall/662dc44733b0bd83e722eb0f?variant=dark" alt="roadmap.sh"/>
+  </a>
+  
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@rogue87/6f5285ce-171b-4c23-9915-f604874568cf.png" alt="wakatime" width="520px" />
+  </a>
+</div>
+
+
+
