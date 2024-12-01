@@ -63,9 +63,9 @@
   <a href="https://roadmap.sh">
     <img src="https://roadmap.sh/card/tall/662dc44733b0bd83e722eb0f?variant=dark" alt="roadmap.sh"/>
   </a>
-  
+
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@rogue87/6f5285ce-171b-4c23-9915-f604874568cf.png" alt="wakatime" width="520px" />
+    <img src="https://wakatime.com/share/@rogue87/939c073c-1c26-48be-aecc-065ad62acd75.png" alt="wakatime" width="520px"/>
   </a>
 </div>
 
