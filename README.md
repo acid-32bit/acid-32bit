@@ -61,7 +61,7 @@
 
 <div>
   <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/662dc44733b0bd83e722eb0f?variant=dark" alt="roadmap.sh"/>
+    <img src="https://roadmap.sh/card/tall/682392af2755c70244d81aae?variant=dark" alt="roadmap.sh"/>
   </a>
 
   <a href="https://wakatime.com">
