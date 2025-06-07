@@ -60,10 +60,6 @@
 <hr/>
 
 <div>
-  <a href="https://roadmap.sh">
-    <img src="https://roadmap.sh/card/tall/682392af2755c70244d81aae?variant=dark" alt="roadmap.sh"/>
-  </a>
-
   <a href="https://wakatime.com">
     <img src="https://wakatime.com/share/@rogue87/939c073c-1c26-48be-aecc-065ad62acd75.png" alt="wakatime" width="520px"/>
   </a>
