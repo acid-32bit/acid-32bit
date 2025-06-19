@@ -61,7 +61,7 @@
 
 <div>
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@rogue87/939c073c-1c26-48be-aecc-065ad62acd75.png" alt="wakatime" width="520px"/>
+    <img src="https://wakatime.com/share/@acid32/939c073c-1c26-48be-aecc-065ad62acd75.png" alt="wakatime" width="520px"/>
   </a>
 </div>
 
