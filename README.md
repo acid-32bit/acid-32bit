@@ -1,4 +1,4 @@
-# Hi there, I go by Rogue 🔻
+# Hi there, I go by Rogue/Ac!d 🔻
 #### just a computer science student(currently on midway of finishing this thing). I also like to learn some other stuff on the side.
 
 ### what I know 
